@@ -3,7 +3,7 @@
 <h2 align="left"> 🧾 Descrição do Projeto</h2>
 <p align="left"> Análises de um case de Vendas para aplicação de Series Temporais para visualização dos dados e possíveis previsões</p>
 <p align="left"> </p>
-<p align="left">Base de Dados usada: <a href="https://github.com/6abi/tip-analysis/blob/master/data/tips.csv" target="_blank" align = "center">Gorgetas </a> </p>
+<p align="left">Base de Dados usada: <a href="https://github.com/6abi/time-series-sales/tree/master/data" target="_blank" align = "center">Dados de venda </a> </p>
  <!-- Status do projeto -->
  <h2 align="left"> ⁉ Status </h2>
 <h4 align="left"> 
