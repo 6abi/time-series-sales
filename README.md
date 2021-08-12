@@ -60,20 +60,20 @@
 </div>
 
 <!-- Resultados parciais -->
-<div align="center" class='result'>
-	<h3 align="center"> ➡ Correlação das Vendas ⬅</h3>
+<div align="left" class='result'>
+	<h3 align="left"> ➡ Correlação das Vendas ⬅</h3>
 	<img alt="#vendas" title="#vendas" src="./result_git/vendas.png" width=1200" height="600"/>
 </div>
 												 
 
 <!-- Resultados parciais -->
-<div align="center" class='result'>
-	<h3 align="center"> ➡ Statesmodels Chocolura ⬅</h3>
+<div align="left" class='result'>
+	<h3 align="left"> ➡ Statesmodels Chocolura ⬅</h3>
 	<img alt="#chocolura" title="#chocolura" src="./result_git/chocolura.png" width=1200" height="600"/>
 </div>
 
 <!-- Resultados parciais -->
-<div align="center" class='result'>
-	<h3 align="center"> ➡ Média Móvel Alucel ⬅</h3>
+<div align="left" class='result'>
+	<h3 align="left"> ➡ Média Móvel Alucel ⬅</h3>
 	<img alt="#alucel" title="#alucel" src="./result_git/alucel.png" width=1200" height="600"/>
 </div>
