@@ -1,8 +1,8 @@
  <!-- Explicação do projeto -->
 <h1 align="left">time-series-sales</h1>
 <h2 align="left"> 🧾 Descrição do Projeto</h2>
-<p align="left"> Análise de alguns cases de Vendas para aplicação de Series Temporais para visualização dos dados e possíveis previsões</p>
-<p align="left"> </p>
+<p align="left"> Análise de alguns cases de Vendas para aplicação de Series Temporais para visualização dos dados e possíveis previsões.</p>
+<p align="left"> São abordados assuntos como: plotagem de gráficos com python, tendência, correlação, Stetsmodel, Média móvel, Normalização dos dados entre outros tópicos sobre Ciência e Análise de Dados.</p>
 <p align="left">Base de Dados usada: <a href="https://github.com/6abi/time-series-sales/tree/master/data" target="_blank" align = "center">Dados de venda </a> </p>
  <!-- Status do projeto -->
  <h2 align="left"> ⁉ Status </h2>
