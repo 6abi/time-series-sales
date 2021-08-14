@@ -75,5 +75,5 @@
 <!-- Resultados parciais -->
 <div align="left" class='result'>
 	<h3 align="left"> ➡ Média Móvel Alucel ⬅</h3>
-	<img alt="#alucel" title="#alucel" src="./result_git/alucel.png" width=1200" height="600"/>
+	<img alt="#alucel" title="#alucel" src="./result_git/alucel.png" width=1100" height="600"/>
 </div>
