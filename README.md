@@ -69,7 +69,7 @@
 <!-- Resultados parciais -->
 <div align="left" class='result'>
 	<h3 align="left"> ➡ Statesmodels Chocolura ⬅</h3>
-	<img alt="#chocolura" title="#chocolura" src="./result_git/chocolura.png" width=1200" height="600"/>
+	<img alt="#chocolura" title="#chocolura" src="./result_git/chocolura.png" width=1100" height="600"/>
 </div>
 
 <!-- Resultados parciais -->
